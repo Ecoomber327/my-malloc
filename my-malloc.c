@@ -1,8 +1,7 @@
 /*
 * my-malloc.c
-* Fall 2021
-* Assignment 3
-* Steven and Ethan Nov 25
+* Ethan 
+* Nov 25
 */
 
 #include <assert.h>
